@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3bd4522-b3fc-461c-84fd-16a560e82cc6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/progetto/view/SegreteriaView.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2lZCE1LuIVSxMd6z0YLxLULpeCo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arian/OneDrive/Desktop/Progetto_FixIt/FixIt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="progetto.model.dao" />
+      <recent name="progetto.controller" />
+      <recent name="progetto.model" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3bd4522-b3fc-461c-84fd-16a560e82cc6" name="Changes" comment="" />
+      <created>1725378098328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725378098328</updated>
+      <workItem from="1725378099327" duration="1529000" />
+      <workItem from="1725381228712" duration="1763000" />
+      <workItem from="1725385668212" duration="18700000" />
+      <workItem from="1725444812565" duration="17651000" />
+      <workItem from="1725481419651" duration="8571000" />
+      <workItem from="1725542121422" duration="9299000" />
+      <workItem from="1725607137582" duration="13903000" />
+      <workItem from="1725639509404" duration="232000" />
+      <workItem from="1725640179811" duration="209000" />
+      <workItem from="1725704095252" duration="4239000" />
+      <workItem from="1725716624714" duration="472000" />
+      <workItem from="1725790670283" duration="17730000" />
+      <workItem from="1725888163095" duration="7917000" />
+      <workItem from="1725904336045" duration="1100000" />
+      <workItem from="1725969144059" duration="10196000" />
+      <workItem from="1726001286572" duration="1688000" />
+      <workItem from="1726052344344" duration="7882000" />
+      <workItem from="1726087999630" duration="44000" />
+      <workItem from="1726094475395" duration="54000" />
+      <workItem from="1726094604828" duration="101000" />
+      <workItem from="1726094787461" duration="29000" />
+      <workItem from="1726105749242" duration="181000" />
+      <workItem from="1726105944313" duration="373000" />
+      <workItem from="1726106344449" duration="21000" />
+      <workItem from="1726106382362" duration="11000" />
+      <workItem from="1726141188086" duration="13000" />
+      <workItem from="1726141226249" duration="4267000" />
+      <workItem from="1726158641489" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
